@@ -1,4 +1,4 @@
-package Testify
+package testing2
 
 import (
 	"Project/main/funcs"
